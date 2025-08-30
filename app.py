@@ -1,5 +1,3 @@
-
-
 class BitFromTron:
     def __init__(self):
         self.what_bit_knows = ["tron", "creator", "mcp", "master control program", "flynn", "mother", "user"]
