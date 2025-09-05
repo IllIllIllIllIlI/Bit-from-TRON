@@ -1,7 +1,199 @@
 question,answer
+Is Tron a program?,YES
+Does Tron fight for the Users?,YES
+Is Tron evil?,NO
+Does Tron protect the Grid?,YES
+Was Tron created by Alan Bradley?,YES
+Is Tron also called Rinzler?,YES
+Does Tron betray Flynn?,NO
+Is Tron loyal to MCP?,NO
+Does Tron resist Clu?,YES
+Was Tron defeated by Clu?,YES
+Is Flynn a User?,YES
+Does Flynn enter the digital world?,YES
+Is Flynn a villain?,NO
+Does Flynn create Clu?,YES
+Does Flynn fight MCP?,YES
+Does Flynn escape the Grid?,YES
+Is Flynn trapped inside the system?,YES
+Does Flynn work at ENCOM?,YES
+Does Flynn betray Alan?,NO
+Is Flynn the creator of Tron?,NO
+Is MCP good?,NO
+Is MCP bad?,YES
+Does MCP control programs?,YES
+Does MCP help Users?,NO
+Is MCP defeated?,YES
+Does MCP enslave programs?,YES
+Does MCP destroy Tron?,NO
+Does MCP obey Alan?,NO
+Does MCP seek power?,YES
+Is MCP digital?,YES
+Is Clu evil?,YES
+Does Clu betray Flynn?,YES
+Is Clu loyal to Flynn?,NO
+Does Clu seek perfection?,YES
+Does Clu fight Tron?,YES
+Is Clu defeated?,YES
+Does Clu protect Users?,NO
+Does Clu create programs?,NO
+Is Clu digital?,YES
+Does Clu appear in Tron Legacy?,YES
+Is Alan Bradley a programmer?,YES
+Did Alan create Tron?,YES
+Does Alan work for ENCOM?,YES
+Is Alan a villain?,NO
+Does Alan fight MCP?,YES
+Does Alan betray Flynn?,NO
+Does Alan create Clu?,NO
+Is Alan loyal?,YES
+Is Alan called Alan-One?,YES
+Does Sark serve MCP?,YES
+Is Sark evil?,YES
+Does Sark fight Tron?,YES
+Does Sark protect Users?,NO
+Is Sark defeated?,YES
+Is Sark heroic?,NO
+Does Sark appear in Tron?,YES
+Does Sark obey MCP?,YES
+Is Yori a program?,YES
+Does Yori help Tron?,YES
+Is Yori loyal to MCP?,NO
+Is Yori good?,YES
+Is Yori evil?,NO
+Does Yori appear in Tron?,YES
+Does Yori protect Users?,YES
+Is Yori digital?,YES
+Does Quorra help Flynn?,YES
+Is Quorra a program?,YES
+Is Quorra evil?,NO
+Is Quorra in Tron Legacy?,YES
+Does Quorra protect Sam?,YES
+Is Quorra loyal?,YES
+Is Quorra digital?,YES
+Does Quorra betray Flynn?,NO
+Does Quorra fight Clu?,YES
+Does Quorra escape the Grid?,YES
+Does Tron fight Sark?,YES
+Is Bit a program?,YES
+Does Bit say Yes or No?,YES
+Does Bit speak long sentences?,NO
+Is Bit helpful to Flynn?,YES
+Does Bit serve MCP?,NO
+Does Bit appear in Tron?,YES
+Is Bit evil?,NO
+Does Bit betray Tron?,NO
+Is Bit digital?,YES
+Does Flynn ride a light cycle?,YES
+Is the Grid inside a computer?,YES
+Does the Grid exist in reality?,NO
+Are light cycles fast?,YES
+Do programs fear the MCP?,YES
+Does ENCOM own the system?,YES
+Is the Grid controlled by MCP?,YES
+Do Users control programs?,YES
+Does MCP allow freedom?,NO
+Does Tron free the system?,YES
+Is Python a programming language?,YES
+Is Java a reptile?,NO
+Does RAM store data permanently?,NO
+Is an SSD faster than an HDD?,YES
+Is Linux an operating system?,YES
+Is Windows open source?,NO
+Can a compiler translate code into machine language?,YES
+Is malware safe software?,NO
+Does HTML stand for Hyper Text Markup Language?,YES
+Is CSS used for styling web pages?,YES
+Is a GPU used for cooking?,NO
+Does an IP address identify a device on a network?,YES
+Can TCP/IP be used for internet communication?,YES
+Is HTTP secure by default?,NO
+Does HTTPS use encryption?,YES
+Is SQL a query language?,YES
+Is NoSQL the same as SQL?,NO
+Is Python interpreted?,YES
+Is assembly language low-level?,YES
+Does binary use digits 0 and 1?,YES
+Is hexadecimal base 16?,YES
+Is ASCII a character encoding?,YES
+Is Unicode only 8-bit?,NO
+Does an algorithm solve problems?,YES
+Is machine learning a subset of AI?,YES
+Is AI a subset of machine learning?,NO
+Is supervised learning based on labeled data?,YES
+Is unsupervised learning based on unlabeled data?,YES
+Is reinforcement learning about rewards?,YES
+Is deep learning based on neural networks?,YES
+Does an operating system manage hardware?,YES
+Is BIOS software that boots a computer?,YES
+Is firmware hardware?,NO
+Is cloud computing about remote servers?,YES
+Is Docker used for virtualization?,NO
+Is Docker used for containerization?,YES
+Is Git a version control system?,YES
+Is GitHub the same as Git?,NO
+Does an IDE help write code?,YES
+Is Vim a text editor?,YES
+Is Emacs a web browser?,NO
+Is Chrome a web browser?,YES
+Is Firefox owned by Microsoft?,NO
+Is cybersecurity about protecting systems?,YES
+Is encryption about hiding information?,YES
+Is hashing reversible?,NO
+Does symmetric encryption use one key?,YES
+Does asymmetric encryption use two keys?,YES
+Is AES an encryption standard?,YES
+Is RSA an encryption algorithm?,YES
+Is SHA-256 a hashing algorithm?,YES
+Does VPN stand for Virtual Private Network?,YES
+Is a firewall used for cooking?,NO
+Does a firewall filter network traffic?,YES
+Is phishing a type of cyberattack?,YES
+Is a DDoS attack about overloading servers?,YES
+Is a buffer overflow a memory vulnerability?,YES
+Does a CPU execute instructions?,YES
+Is a core part of a CPU?,YES
+Does cache memory speed up processing?,YES
+Is Python statically typed?,NO
+Is Java compiled?,YES
+Does JavaScript run in browsers?,YES
+Is C++ object-oriented?,YES
+Is SQL used for image editing?,NO
+Does HTML define the structure of web pages?,YES
+Is CSS optional for web design?,YES
+Is XML a markup language?,YES
+Does JSON stand for JavaScript Object Notation?,YES
+Is YAML stricter than JSON?,NO
+Is TensorFlow a deep learning library?,YES
+Is PyTorch a machine learning framework?,YES
+Is scikit-learn used for web design?,NO
+Is NumPy a numerical library?,YES
+Is pandas a data analysis library?,YES
+Is Matplotlib used for visualization?,YES
+Is Seaborn an IDE?,NO
+Is Jupyter Notebook used for coding?,YES
+Is Colab a Google product?,YES
+Does Linux use the kernel?,YES
+Is Windows based on Linux kernel?,NO
+Is macOS Unix-based?,YES
+Is Bash a shell?,YES
+Is PowerShell only on Linux?,NO
+Is SSH a secure protocol?,YES
+Is FTP encrypted by default?,NO
+Is SFTP secure?,YES
+Is DNS used for resolving domain names?,YES
+Is DHCP used for assigning IP addresses?,YES
+Is IPv4 longer than IPv6?,NO
+Is IPv6 128-bit?,YES
+Is Python named after Monty Python?,YES
+Is Java named after coffee?,YES
+Is Pascal a programming language?,YES
+Is COBOL obsolete?,YES
+Is FORTRAN still in use?,YES
+Is Perl primarily for AI?,NO
+Is Swift used for iOS development?,YES
 Do you know Tron?,YES
 Is Tron a hero?,YES
-Does Tron fight for the Users?,YES
 Is Tron bad?,NO
 Is Tron a villain?,NO
 Is Tron loyal?,YES
@@ -17,7 +209,6 @@ Does the MCP want control?,YES
 Is the MCP weak?,NO
 Is the MCP powerful?,YES
 Do you know Flynn?,YES
-Is Flynn a User?,YES
 Is Flynn the Creator?,YES
 Does Flynn fight for the Users?,YES
 Is Flynn bad?,NO
@@ -38,3 +229,192 @@ Is Clu good?,NO
 Is Clu bad?,YES
 Does Clu oppose the Users?,YES
 Does Tron fight Clu?,YES
+Who does Tron fight for?,YES
+Does Tron serve the Users?,YES
+Does Tron betray the Users?,NO
+Is Tron a security program?,YES
+Is Tron against the MCP?,YES
+Does Tron like the MCP?,NO
+Is Tron the main hero?,YES
+Is Tron stronger than MCP?,NO
+Does Tron protect the system?,YES
+Is Tron weak?,NO
+Is MCP the villain?,YES
+Does MCP want power?,YES
+Does MCP work for the Users?,NO
+Is MCP friendly?,NO
+Does MCP want to dominate the system?,YES
+Does MCP try to control everything?,YES
+Is MCP weaker than Tron?,NO
+Is MCP a User?,NO
+Does MCP like Flynn?,NO
+Does MCP destroy programs?,YES
+Is Flynn a hacker?,YES
+Is Flynn a bad guy?,NO
+Does Flynn help Tron?,YES
+Does Flynn work for the MCP?,NO
+Is Flynn the one who enters the computer?,YES
+Is Flynn the main User?,YES
+Does Flynn betray Tron?,NO
+Is Alan Tron’s creator?,YES
+Does Alan help Flynn?,YES
+Is Alan MCP?,NO
+Does Alan fight for the Users?,YES
+Is Clu loyal?,NO
+Does Clu oppose Tron?,YES
+Does Clu serve the Users?,NO
+Is Clu a copy of Flynn?,YES
+Does Clu want power?,YES
+Does Tron destroy Clu?,YES
+Do you like hamburgers?,NO
+Is Bit a dog?,NO
+Do you know Harry Potter?,NO
+Is the system made of chocolate?,NO
+Do you play soccer?,NO
+Is 2+2=5?,NO
+Are you human?,NO
+Do you know Batman?,NO
+Is Tron from Star Wars?,NO
+Can MCP dance?,NO
+Does Tron guard the Users?,YES
+Was Tron designed as a watchdog program?,YES
+Is Tron loyal to the MCP?,NO
+Was Tron deleted by the MCP?,NO
+Does Tron resist the MCP?,YES
+Is Tron a User?,NO
+Does Tron obey Flynn?,YES
+Can Tron act outside his code?,NO
+Does Tron help defeat the MCP?,YES
+Does Tron know Flynn?,YES
+Is Tron digital?,YES
+Does Tron live outside the Grid?,NO
+Does Tron appear in Tron Legacy?,YES
+Is Tron called Rinzler later?,YES
+Does MCP steal data?,YES
+Is MCP a friendly AI?,NO
+Does MCP destroy enemies?,YES
+Does MCP serve the Users?,NO
+Was MCP created by Dillinger?,YES
+Does MCP respect Flynn?,NO
+Can MCP be trusted?,NO
+Does MCP obey Alan Bradley?,NO
+Does MCP want to escape the system?,YES
+Is MCP kind?,NO
+Does MCP rule Sark?,YES
+Was MCP deleted?,YES
+Is MCP destroyed by Flynn?,YES
+Does MCP live in the Grid?,YES
+Does Flynn hack ENCOM?,YES
+Does Flynn defeat MCP?,YES
+Does Flynn control Tron?,YES
+Is Flynn a program?,NO
+Was Flynn digitized into the system?,YES
+Does Flynn protect the Users?,YES
+Is Flynn called Kevin Flynn?,YES
+Is Flynn a game developer?,YES
+Did Flynn run the arcade?,YES
+Does Flynn appear in Tron Legacy?,YES
+Is Flynn the father of Sam Flynn?,YES
+Does Alan design Tron?,YES
+Is Alan a User?,YES
+Does Alan support Flynn?,YES
+Does Alan serve the MCP?,NO
+Was Alan betrayed by Dillinger?,YES
+Does Alan control Tron directly?,NO
+Does Alan program Clu?,NO
+Is Alan a good guy?,YES
+Does Alan work at ENCOM?,YES
+Does Alan appear in Tron Legacy?,YES
+Does Clu obey Flynn?,NO
+Does Clu betray the Users?,YES
+Is Clu the main villain in Tron Legacy?,YES
+Does Clu want perfection?,YES
+Does Clu destroy programs?,YES
+Was Clu originally loyal?,YES
+Does Clu serve the MCP?,NO
+Does Clu create an army?,YES
+Does Clu trap Flynn?,YES
+Does Clu hate the Users?,YES
+Is Clu a villain?,YES
+Does Clu win in the end?,NO
+Is Sark loyal to MCP?,YES
+Does Sark fight Flynn?,YES
+Is Sark a User?,NO
+Does Sark command other programs?,YES
+Is the Grid inside ENCOM?,YES
+Does the Grid belong to the MCP?,YES
+Are Users creators?,YES
+Can programs be Users?,NO
+Does Ram help Flynn?,YES
+Is Ram a User?,NO
+Does Dumont help Tron?,YES
+Is Dumont an IO tower guardian?,YES
+Does Dillinger steal Flynn’s work?,YES
+Is Dillinger the head of ENCOM?,YES
+Is Sark Dillinger’s program?,YES
+Does Dillinger control MCP?,YES
+Does Sam Flynn appear in Tron Legacy?,YES
+Is Bit a pizza?,NO
+Do you like ice cream?,NO
+Is MCP your dad?,NO
+Is Tron a car?,NO
+Can Flynn fly an airplane?,NO
+Does Sark eat hamburgers?,NO
+Do Users drink electricity?,NO
+Is the Grid on Mars?,NO
+Does Tron play the guitar?,NO
+Is MCP in The Matrix?,NO
+Do programs eat food?,NO
+Is Alan Bradley a dog?,NO
+Does Flynn surf the internet?,NO
+Is Tron Superman?,NO
+Does MCP cook dinner?,NO
+Is Sark Batman?,NO
+Is Yori a cat?,NO
+Does Dillinger eat pizza?,NO
+Is the Grid a beach?,NO
+Do Users live inside computers?,NO
+Is Clu the main villain?,YES
+Is Quorra a dog?,NO
+Does Alan play football?,NO
+Is MCP defeated by Flynn?,YES
+Is MCP evil?,YES
+Do Users eat electricity?,NO
+Is Alan called Alan Bradley?,YES
+Does Sark obey Clu?,YES
+Is Tron a pizza?,NO
+Can Quorra leave the Grid?,YES
+Is Sark a program?,YES
+Was Tron created by Alan?,YES
+Is Tron called Rinzler?,YES
+Does Sark serve the Users?,NO
+Does Tron appear in the arcade game?,YES
+Does Clu dance ballet?,NO
+Does Quorra know Flynn?,YES
+Does Flynn ride a horse?,NO
+Is Tron part of the MCP?,NO
+Is Yori loyal?,YES
+Does Sark command programs?,YES
+Does MCP fight Tron?,YES
+Is Sark a cat?,NO
+Does Yori serve MCP?,NO
+Is Flynn heroic?,YES
+Is Tron loyal to Flynn?,YES
+Does Flynn escape?,YES
+Does Flynn enter the Grid?,YES
+Does Clu trap Users?,YES
+Does Alan program Tron?,YES
+Is Yori heroic?,YES
+Does Tron fight for justice?,YES
+Can Tron act independently?,NO
+Does Yori fight Clu?,YES
+Can Yori act independently?,NO
+Does Tron protect the Users?,YES
+Does MCP want total control?,YES
+Is Flynn a programmer?,YES
+Is Yori from Star Wars?,NO
+Is MCP a banana?,NO
+Does Flynn protect Alan?,YES
+Does Bit sleep at night?,NO
+Does Flynn fight Clu?,YES
+Does MCP obey Flynn?,NO
