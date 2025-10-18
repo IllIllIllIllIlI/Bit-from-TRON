@@ -44,12 +44,8 @@ def critical_bit_error():
 def end_of_line():
     print("END OF LINE")
     exit()
-try:
-    while True:
-        bit = BitFromTron()
-        print(bit.user_asks_bit())
 
-except KeyboardInterrupt: 
-    print("*USER USE OF CTRL+C,\n")
-    print("END OF LINE*\n")
+if __name__ == "__main__":
+    bit = BitFromTron()
+    print(bit.user_asks_bit())
 
