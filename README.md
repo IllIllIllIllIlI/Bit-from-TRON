@@ -29,7 +29,6 @@ Welcome to the Grid, User. This program recreates **Bit**, the loyal companion f
 - `CREATOR` - The one who built the system  
 - `MCP` - Master Control Program
 - `FLYNN` - The User who changed everything
-- `MOTHER` - The guiding presence
 - `USER` - Those who fight for freedom
 
 ### Response Protocol
